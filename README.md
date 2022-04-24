@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlexProgramerBG
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python and javascript
+- 👋 Hi, I’m @Alekz1
+- 👀 I’m interested in programing, video games, cryptocurency and more
+- 🌱 I’m currently learning c# and python
 - 📫 How to reach me xxalexbg25xx@gmail.com
 
 <!---
